@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<h2 align="center"> TXC-ALON </h2>
+![Metrics](https://metrics.lecoq.io/TXC-ALON?template=classic&config.timezone=Asia%2FShanghai)
+![TXC-ALON's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=TXC-ALON GitHub ID&show_icons=true&count_private=true&theme=gotham)
 <!--
 **TXC-ALON/TXC-ALON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
