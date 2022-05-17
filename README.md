@@ -1,5 +1,6 @@
 ![](README.assets/codingbytherain.gif)
 
+
 ![Metrics](https://metrics.lecoq.io/TXC-ALON?template=classic&config.timezone=Asia%2FShanghai)
 <!--
 ![TXC-ALON's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=TXC-ALON&show_icons=true&count_private=true&theme=gotham)
@@ -20,4 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://zhuanlan.zhihu.com/p/376158697?msclkid=92dbbfe4aa7411ecae1cf02dbb801a57
+![编辑主页](https://zhuanlan.zhihu.com/p/376158697?msclkid=92dbbfe4aa7411ecae1cf02dbb801a57)
+![Gif出处](https://www.reddit.com/r/PixelArt/comments/ug6ix8/raining_day_with_dad_by_pixelgustavo/)
