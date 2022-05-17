@@ -1,3 +1,4 @@
+![](README.assets/codingbytherain.gif)
 
 ![Metrics](https://metrics.lecoq.io/TXC-ALON?template=classic&config.timezone=Asia%2FShanghai)
 <!--
