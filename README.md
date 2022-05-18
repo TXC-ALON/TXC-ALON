@@ -1,4 +1,4 @@
-![](README.assets/codingbytherain.gif)
+[](README.assets/codingbytherain.gif)
 
 
 ![Metrics](https://metrics.lecoq.io/TXC-ALON?template=classic&config.timezone=Asia%2FShanghai)
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![编辑主页](https://zhuanlan.zhihu.com/p/376158697?msclkid=92dbbfe4aa7411ecae1cf02dbb801a57)
-![Gif出处](https://www.reddit.com/r/PixelArt/comments/ug6ix8/raining_day_with_dad_by_pixelgustavo/)
+[编辑主页](https://zhuanlan.zhihu.com/p/376158697?msclkid=92dbbfe4aa7411ecae1cf02dbb801a57)
+[Gif出处](https://www.reddit.com/r/PixelArt/comments/ug6ix8/raining_day_with_dad_by_pixelgustavo/)
