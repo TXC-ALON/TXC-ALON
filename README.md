@@ -1,11 +1,7 @@
 ![coding](README.assets/codingbytherain.gif)
-
-
 ![Metrics](https://metrics.lecoq.io/TXC-ALON?template=classic&config.timezone=Asia%2FShanghai)
-
 ![TXC-ALON's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=TXC-ALON&show_icons=true&count_private=true&theme=gotham)
-
-![TXC-ALON's GitHub stats](https://github-readme-stats.vercel.app/api?username=TXC-ALON)](https://github.com/anuraghazra/github-readme-stats)
+![TXC-ALON's GitHub stats](https://github-readme-stats.vercel.app/api?username=TXC-ALON)]
 
 <!--
 **TXC-ALON/TXC-ALON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,5 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[参考](https://github.com/anuraghazra/github-readme-stats)
 [编辑主页](https://zhuanlan.zhihu.com/p/376158697?msclkid=92dbbfe4aa7411ecae1cf02dbb801a57)
 [Gif出处](https://www.reddit.com/r/PixelArt/comments/ug6ix8/raining_day_with_dad_by_pixelgustavo/)
